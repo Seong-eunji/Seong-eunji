@@ -24,4 +24,5 @@
   
   
   ## 📊 Stat
-  ![Seong-eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seong-eunji&theme=default&show_icons=true)
+  ![Seong-eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seong-eunji&theme=default&show_icons=true)<br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seong-eunji&layout=compact&theme=default)
