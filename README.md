@@ -46,7 +46,7 @@
    <h4> 🎨 SNS & Portfolio 🎨 </h4>
 </div>
 <div align=center>
-   <a href="https://yermi.co.kr">
+   <a href="http://naver.me/FKxGuKHE">
       <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
    </a>
    <a href="https://seji-lab.tistory.com">
